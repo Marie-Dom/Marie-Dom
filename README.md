@@ -1,5 +1,7 @@
 ### Hi there 👋
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/7sApq40JDeByB7rNGW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/helloall-hi-hamsa-hand-sunii-7sApq40JDeByB7rNGW">via GIPHY</a></p>
+<div>
+ <img src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif" width="100%" alt="gif"/>
+</div>
 
 <h1>✨ Bienvenue sur mon profil GitHub ✨</h1>
 
@@ -10,7 +12,9 @@
 <p>Participer à de nouveaux projets et apprendre de nouvelles technologies.
  N'hésitez pas à parcourir mon portfolio, vous y découvrirez quelques projets que j'ai pu réaliser dans le cadre de ma formation. 
 </p>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/Z73WGb4wzV32aDfzjI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/LearnerCircle-nature-inspiration-quotes-Z73WGb4wzV32aDfzjI">via GIPHY</a></p>
+<div>
+ <img src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="100%" alt="gif"/>
+</div>
 
 Here are some ideas to get you started:
 
