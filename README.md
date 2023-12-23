@@ -11,9 +11,8 @@
 <p align="center">Participer à de nouveaux projets et apprendre de nouvelles technologies.
  N'hésitez pas à parcourir mon portfolio, vous y découvrirez quelques projets que j'ai pu réaliser dans le cadre de ma formation. 
 </p>
-<p align="center">
  <img align="center" src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="55%" alt="Gif"/>
-</p>
+
 
 - 🔭 Je travaille actuellement à l'élaboration d'un site pour des créations
 - 🌱 Je continue d'apprendre le javaScript
