@@ -11,11 +11,31 @@
 <p align="center">Participer à de nouveaux projets et apprendre de nouvelles technologies.
  N'hésitez pas à parcourir mon portfolio, vous y découvrirez quelques projets que j'ai pu réaliser dans le cadre de ma formation. 
 </p>
- <img align="center" src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="55%" alt="Gif"/>
+ 
+<img align="center" src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="55%" alt="Gif"/>
 
-
-- 🔭 Je travaille actuellement à l'élaboration d'un site pour des créations
-- 🌱 Je continue d'apprendre le javaScript
-- 👯 J'aimerai collaborer sur des projets React- React-Redux ou autres
-- 📫 Comment me joindre : md.friot@gmail.com
+- 🔭 Je travaille actuellement à **l'élaboration d'un site pour des créations**
+- 🌱 Je continue d'apprendre **le javaScript**
+- 👯 J'aimerai collaborer sur des projets **React- React-Redux ou autres**
+- 📫 Comment me joindre : ** md.friot@gmail.com **
 - ⚡ Fun fact: ...
+
+### 🧰 Languages et outils
+
+<p align="center">
+<br />
+<img  alt="HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img  alt="CSS" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img  alt="Sass" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img  alt="JavaScript" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img  alt="React" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  alt="Redux" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img  alt="Jest" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img  alt="Php" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img  alt="npm" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img  alt="git" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="slack" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img  alt="figma" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p><br />
+
+#
