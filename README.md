@@ -1,28 +1,24 @@
 ### Hi there 👋
-<div>
- <img src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif" width="55%" alt="gif"/>
+<div align="center">
+ <img align="center" src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif" width="65%" alt="gif"/>
 </div>
 
-<h1>✨ Bienvenue sur mon profil GitHub ✨</h1>
+<h1 align="center">✨ Bienvenue sur mon profil GitHub ✨</h1>
 
-<p>Je me présente : Marie-Dominique Jaouen-Friot.</p>
-<p>Passionnée par le monde de l'informatique, et étant en reconversion professionnelle, c'est donc tout naturellement que j'ai choisi de me former en tant que développeuse Front-End, car j'aime créer, construire de belles choses sur la toile. J'aime ce métier pour tout ce qu'il nous apporte, c'est très enrichissant, on ne cesse d'apprendre. C'est un métier en constante évolution, donc quoi de mieux pour un esprit sans cesse en recherche !💡</p>
-<p>Ma motivation :</p>
-<p>Participer à de nouveaux projets et apprendre de nouvelles technologies.
+<p align="center">Je me présente : Marie-Dominique Jaouen-Friot.</p>
+<p align="center">Passionnée par le monde de l'informatique, et étant en reconversion professionnelle, c'est donc tout naturellement que j'ai choisi de me former en tant que développeuse Front-End, car j'aime créer, construire de belles choses sur la toile. J'aime ce métier pour tout ce qu'il nous apporte, c'est très enrichissant, on ne cesse d'apprendre. C'est un métier en constante évolution, donc quoi de mieux pour un esprit sans cesse en recherche !💡</p>
+<h2 align="center">Ma motivation :</h2>
+<p align="center">Participer à de nouveaux projets et apprendre de nouvelles technologies.
  N'hésitez pas à parcourir mon portfolio, vous y découvrirez quelques projets que j'ai pu réaliser dans le cadre de ma formation. 
 </p>
-<div>
- <img src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="55%" alt="gif"/>
+<div align="center">
+ <img align="center" src="https://media.giphy.com/media/Z73WGb4wzV32aDfzjI/giphy.gif" width="55%" alt="Gif"/>
 </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Je travaille actuellement à l'élaboration d'un site pour des créations
+- 🌱 Je continue d'apprendre le javaScript
+- 👯 J'aimerai collaborer sur des projets React- React-Redux ou autres
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 Comment me joindre : md.friot@gmail.com
 - ⚡ Fun fact: ...
 -->
